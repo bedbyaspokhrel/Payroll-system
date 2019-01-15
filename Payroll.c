@@ -55,7 +55,7 @@ printf("\t\t\t\n NAVACHETANA SHAIKSHIK BOARDIND SCHOOL\n\n\tTEACHERS SALARY\n");
         printf("\nEnter salary: ");
         scanf("%d", &t[i].salary);
         
-        printf("\Eenter the total  tution taken period:-");
+        printf("\nEenter the total  tution taken period:-");
         scanf("%d",&t[i].overtime);
     }
     {
