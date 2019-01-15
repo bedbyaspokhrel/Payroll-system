@@ -1,1 +1,2 @@
 # Payroll system
+This project is fully based on the basic concept of c. Any one who have basic knowledge can design it and can understand it. Here for data storing we have used the structure. To make easy to understand We also used some function which you can see there. We are thankful to dr pooja for the project. If you have any queries regarding any our project feel free to contact us on bedbyaspokhrel@gmail.com
